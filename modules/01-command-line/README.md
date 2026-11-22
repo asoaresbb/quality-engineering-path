@@ -1,4 +1,4 @@
-# Module 1 — Linux basics
+# Module 1 — The command line
 
 > The environment everything runs on.
 
@@ -20,7 +20,7 @@ The mindset to take away: the command line is not a worse GUI — it's where sma
 >
 > ```bash
 > cd path/to/quality-engineering-path          # wherever you cloned it
-> cd modules/01-linux-basics/exercise
+> cd modules/01-command-line/exercise
 > ```
 >
 > Run `pwd` to confirm where you are and `ls` to see the two sample logs.
@@ -77,7 +77,7 @@ When you're done, step out of the scratch folder and delete it, then head into t
 ```bash
 cd ~                                 # leave the folder before deleting it
 rm -rf ~/linux-practice              # delete the whole scratch folder
-cd path/to/quality-engineering-path/modules/01-linux-basics/exercise   # back into this module's exercise folder
+cd path/to/quality-engineering-path/modules/01-command-line/exercise   # back into this module's exercise folder
 ```
 
 ### Part 2 — log triage (a core testing skill)

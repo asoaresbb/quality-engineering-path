@@ -29,7 +29,7 @@ So a module's "solution" is two things: the notes and tests in its `solution/` f
 
 | # | Module | Builds |
 |---|--------|--------|
-| 1 | [Linux basics](01-linux-basics) | foundation |
+| 1 | [The command line](01-command-line) | foundation |
 | 2 | [Git and GitHub](02-git-github) | foundation |
 | 3 | [Networking and HTTP](03-networking-http) | foundation |
 | 4 | [Testing fundamentals and test design](04-test-design) | foundation |

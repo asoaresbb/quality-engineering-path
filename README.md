@@ -18,7 +18,7 @@ This page is the map. The territory is in [`modules/`](modules): each module has
 
 ## Learning path
 
-### 1. Linux basics
+### 1. The command line
 The environment everything runs on. The shell, the filesystem, pipes and redirection — and above all the two things a tester reaches for daily: navigating a machine and searching logs to triage a bug.
 Exercise: find your way around the command line, then triage real web and application logs — tracking a brute-force attempt and a failing checkout across both files, ending in a written bug report; finally, fold the repetitive triage commands into a small reusable script.
 
